@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "VR-better-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/VR-better-eagle-import.kicad_sym")(options "")(descr ""))
+)
